@@ -20,9 +20,9 @@ class joomlaVersion {
 	/** @var строка CMS*/
 	var $CMS = 'Joostina';
 	/** @var версия*/
-	var $CMS_ver = '1.3.0.5::885 build';
+	var $CMS_ver = '2.3.0';
 	/** @var int Номер основной версии*/
-	var $RELEASE = '1.3';
+	var $RELEASE = '2.3.0';
 	/** @var строка  статус разработки*/
 	var $DEV_STATUS = '';
 	/** @var int Подверсия*/
@@ -30,7 +30,7 @@ class joomlaVersion {
 	/** @var int Номер сборки*/
 	var $BUILD = '885';
 	/** @var string Кодовое имя*/
-	var $CODENAME = '';
+	var $CODENAME = 'Fenix';
 	/** @var string Дата*/
 	var $RELDATE = '26:10:2011';
 	/** @var string Время*/
