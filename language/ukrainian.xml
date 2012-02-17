@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mosinstall version="1.3.0.4-0.1" type="language">
+	<name>Ukrainian</name>
+	<version>1.3.0.4-0.1</version>
+	<creationDate>2011-06-07</creationDate>
+	<author>Hnat Kubov</author>
+	<authorEmail>hnatt88@gmail.com</authorEmail>
+	<files>
+		<filename>ukrainian.php</filename>
+		<filename>ukrainian.ignore.php</filename>
+		<filename>ukrainian.xml</filename>
+	</files>
+</mosinstall>

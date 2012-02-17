@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mosinstall version="1.0.0" type="jcelang" lang="ru">
+	<name>Russian</name>
+	<version>1.1.1</version>
+	<creationDate>2008</creationDate>
+	<author>Russian Joomla Team</author>
+	<authorEmail>team@joom.ru</authorEmail>
+	<authorUrl>http://joom.ru/</authorUrl>
+	<copyright>Joom.ru - Russian home of Joomla!</copyright>
+	<license>LGPL</license>
+	<description>ађбіб±б±аКаИаЙ бЅаЗб‚аКаОаВаОаЙ бґаАаЙаЛ JCE</description>
+		<files>
+		<filename language="ru">langs/ru.js</filename>
+		<filename>themes/advanced/langs/ru.js</filename>
+        <filename>plugins/advimage/langs/ru.js</filename>
+        <filename>plugins/advlink/langs/ru.js</filename>
+        <filename>plugins/advlink/langs/ru.php</filename>
+        <filename>plugins/directionality/langs/ru.js</filename>
+        <filename>plugins/emotions/langs/ru.js</filename>
+        <filename>plugins/fullscreen/langs/ru.js</filename>
+        <filename>plugins/paste/langs/ru.js</filename>
+        <filename>plugins/preview/langs/ru.js</filename>
+        <filename>plugins/print/langs/ru.js</filename>
+        <filename>plugins/searchreplace/langs/ru.js</filename>
+        <filename>plugins/table/langs/ru.js</filename>
+	</files>
+	<administration>
+	<files>
+        <filename>ru.php</filename>
+	</files>
+	</administration>
+</mosinstall>

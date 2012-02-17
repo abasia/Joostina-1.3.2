@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mosinstall type="component">
+	<name>JCE</name>
+	<version>1.1.1</version>
+	<creationDate>06 Июня 2008</creationDate>
+	<author>Ryan Demmer</author>
+	<authorEmail>ryandemmer@gmail.com</authorEmail>
+	<authorUrl>www.joostina.ru</authorUrl>
+	<licence>Этот компонент выпущен согласно Лицензии GPL</licence>
+	<copyright>Ryan Demmer 2006/2007</copyright>
+	<description>
+		<![CDATA[ Компонент администрирования JCE, версия 1.1.1<br />
+	]]></description>
+</mosinstall>
