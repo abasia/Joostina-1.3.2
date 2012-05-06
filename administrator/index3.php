@@ -27,7 +27,6 @@ $http_host = explode(':',$_SERVER['HTTP_HOST']);
 if((!empty($_SERVER['HTTPS']) && strtolower($_SERVER['HTTPS']) != 'off' || isset($http_host[1]) && $http_host[1] == 443) && substr($mosConfig_live_site,0,8) !='https://') {
 	$mosConfig_live_site = 'https://' . substr($mosConfig_live_site,7);
 }
-
 // для совместимости
 $mosConfig_absolute_path = JPATH_BASE;
 // ядро
