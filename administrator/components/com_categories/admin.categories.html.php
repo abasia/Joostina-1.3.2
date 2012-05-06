@@ -45,7 +45,7 @@ class categories_html {
 		log('Смена раздела категории: '+elID+' на '+newSEC);
 		SRAX.replaceHtml('cat-id-'+elID,'<div style="text-align:center;"><img src="images/aload.gif" /></div>');
 		dax({
-			url: 'ajax.index.php?option=com_categories&task=save_sec&id='+elID+'&new_sec='+newSEC,
+			url: 'ajax.index.php?option=com_categories&task=save_sec&id='+elID+'new_sec='+newSEC,
 			id:'publ-'+elID,
 			callback:
 				function(resp, idTread, status, ops){
