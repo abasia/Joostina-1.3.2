@@ -45,7 +45,7 @@ class HTML_modules {
 		log('Смена позиции модуля: '+elID+' на '+newPOS);
 		SRAX.replaceHtml('mod-id-'+elID,'<img src="images/aload.gif" />');
 		dax({
-			url: 'ajax.index.php?option=com_modules&task=save_position&id='+elID+'&new_pos='+newPOS,
+			url: 'ajax.index.php?option=com_modules&task=save_position&id='+elID+'new_pos='+newPOS,
 			id:'publ-'+elID,
 			callback:
 				function(resp, idTread, status, ops){
